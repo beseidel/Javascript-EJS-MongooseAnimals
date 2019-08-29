@@ -1,4 +1,7 @@
 # Javascript-EJS-MongooseAnimals
-JavaScript, EJS, Mongoose, MongoDB, NodeServer, Express and No Angular in this project. 
+JavaScript, EJS, Mongoose, MongoDB, NodeServer, Express.    There is No Angular in this project. 
 
-This project is a basic Javascript Project using EJS Views. 
+The MongooseAnimals project is a FULL CRUD application with Showing All, ShowingOne, UpdatingOne, and DelatingOne capabilities.   It uses JavaScript, EJS, Flash, Node.JS Server and Express FrameWork, and MongoDB.   
+
+Basic Four loop logic is applied for refactoring code for repeating code.
+
