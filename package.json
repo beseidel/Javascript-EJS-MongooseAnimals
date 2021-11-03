@@ -16,6 +16,6 @@
     "express": "^4.17.0",
     "flash": "^1.1.0",
     "mongoose": "^5.5.9",
-    "validator": "^10.11.0"
+    "validator": "^13.7.0"
   }
 }
